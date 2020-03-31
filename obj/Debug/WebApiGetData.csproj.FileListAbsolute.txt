@@ -1,0 +1,14 @@
+H:\code\Patecoco\WebApiGetData\bin\Debug\WebApiGetData.exe.config
+H:\code\Patecoco\WebApiGetData\bin\Debug\WebApiGetData.exe
+H:\code\Patecoco\WebApiGetData\bin\Debug\WebApiGetData.pdb
+H:\code\Patecoco\WebApiGetData\bin\Debug\DocumentFormat.OpenXml.dll
+H:\code\Patecoco\WebApiGetData\bin\Debug\Newtonsoft.Json.dll
+H:\code\Patecoco\WebApiGetData\bin\Debug\System.IO.Packaging.dll
+H:\code\Patecoco\WebApiGetData\bin\Debug\System.Reflection.TypeExtensions.dll
+H:\code\Patecoco\WebApiGetData\bin\Debug\DocumentFormat.OpenXml.xml
+H:\code\Patecoco\WebApiGetData\bin\Debug\Newtonsoft.Json.xml
+H:\code\Patecoco\WebApiGetData\bin\Debug\System.IO.Packaging.xml
+H:\code\Patecoco\WebApiGetData\obj\Debug\WebApiGetData.csprojAssemblyReference.cache
+H:\code\Patecoco\WebApiGetData\obj\Debug\WebApiGetData.csproj.CopyComplete
+H:\code\Patecoco\WebApiGetData\obj\Debug\WebApiGetData.exe
+H:\code\Patecoco\WebApiGetData\obj\Debug\WebApiGetData.pdb
